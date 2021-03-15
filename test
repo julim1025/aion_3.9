@@ -1,0 +1,37 @@
+[NOTICE]
+<b><주요 내용></B>
+  ※ 클린서버 디스코드 : 접속기 우측 상단 '디스코드' 아이콘 클릭
+<font colr=red>  ※ 계정 생성 / 민원 및 건의사항 접수</font>
+     - 디스코드 우측 상단의 '계정신청/민원' 으로 희망하시는 계정/비번/연락처를 남겨주시기 바랍니다.
+     - 연락처 기준, 1인 2계정 생성 가능 합니다.
+     - 민원은 각 레기온 군단장 혹은 담당자에게 내용을 전달 주시기 바랍니다.
+     - 담당자분은 의견을 정리 및 취합하여 '클린서버 or 계정신청/민원' 으로 말씀주시기 바랍니다.
+     
+  ※ 계정 생성 및 민원 처리시간은 다음과 같습니다.
+     - 평일 21:00 ~ 23:00 | 주말/휴일 처리 불가
+      * 모두 직장인이라 퇴근 후 처리하는 것이 기본이며, 수시로도 처리 함
+      
+  ※ 디스코드에서 '공지사항 / 패치노트'를 항시 확인 바랍니다.
+  ※ 캐릭터 육성 및 명령어는 '안내사항 / 팁 및 가이드 / 게임_명령어' 채널을 참고바랍니다.
+
+<운영자 디스코드 닉네임 및 역할>
+  ※ 계정생성/민원 : 계정 생성 및 민원 접수 및 처리
+  ※ 클린서버 : 서버 총괄 운영 및 관리와 오류 수정
+  ※ 후원문의 : 후원 문의 접수 및 처리
+[/NOTICE]
+[SETTING]	final_exe_file="\bin32\aion.exe -ip:180.67.10.123 -port:2109 -noauthgg -cc:0 -lang:enu -noauthgg -ls -noweb -nowebshop -ingameshop -win10-mouse-fix -win10-mouse-fix-autodetect -windowed-mouse-fix -unlimited-gfx -disable-xigncode -fix-39-weapon-switch"
+[SETTING] serverIP=http://180.67.10.123:8008
+[SETTING] url_launcher=/Launcher_FILE/클린서버_접속기.exe
+[SETTING] url_updater=/Launcher_FILE/CleanUpdater.exe
+[SETTING] launcher_hash=FB4E849B70E72C03D9663CD4A0063A4E
+[SETTING] url_file_download=/GAME_FILE
+[SETTING] url_webpage=http://180.67.10.123:8008/web2/online.php
+[GAMEFILELIST]	\Data\Items\items.pak	87E0196149F4D74F747BC7E20736AA73
+[GAMEFILELIST]	\Data\Npcs\npcs.pak	DF93BC8F5A81A5D43237F200ECA0DDB1
+[GAMEFILELIST]	\Data\PC\pc.pak	0C8B5CD7ECD133E3B2623908DD147262
+[GAMEFILELIST]	\Data\Skills\Skills.pak	A2BF0FEE760FE49DD0FF37616883BBA1
+[GAMEFILELIST]	\Data\Strings\Strings.pak	949A8E23621BE54E093CDA29667DF263
+[GAMEFILELIST]	\Data\Quest\Quest.pak	45C5196F4A6616D822CB9BB76C9D800A
+[GAMEFILELIST]	\Objects\monster\Mesh_Meshes_034.pak	8EC4990C947F1D2528B71DEB1FD6484C
+[GAMEFILELIST]	\bin32\version.dll	02D61E69DF42FE2A04BB2D9A0838601C
+[GAMEFILELIST]	\bin64\version.dll	8DBED4154332D421546664E49FFB988E
