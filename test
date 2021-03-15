@@ -19,11 +19,11 @@
 <p style='margin: 0cm 0cm 0.0001pt; text-align: left; font-size: 13px; font-family: "맑은 고딕"; line-height: 1;'><span style="font-size: 12px;">&nbsp; ※ 클린서버 : 서버 총괄 운영 및 관리와 오류 수정</span></p>
 <p style='margin: 0cm 0cm 0.0001pt; text-align: left; font-size: 13px; font-family: "맑은 고딕"; line-height: 1;'><span style="font-size: 12px;">&nbsp; ※ 후원문의 : 후원 문의 접수 및 처리</span></p>
 [/NOTICE]
-[SETTING]	final_exe_file="\bin32\aion.exe -ip:180.67.10.123 -port:2109 -noauthgg -cc:0 -lang:enu -noauthgg -ls -noweb -nowebshop -ingameshop -win10-mouse-fix -win10-mouse-fix-autodetect -windowed-mouse-fix -unlimited-gfx -disable-xigncode -fix-39-weapon-switch"
+[SETTING] final_exe_file="\bin32\aion.exe -ip:180.67.10.123 -port:2109 -noauthgg -cc:0 -lang:enu -noauthgg -ls -noweb -nowebshop -ingameshop -win10-mouse-fix -win10-mouse-fix-autodetect -windowed-mouse-fix -unlimited-gfx -disable-xigncode -fix-39-weapon-switch"
 [SETTING] serverIP=http://180.67.10.123:8008
 [SETTING] url_launcher=/Launcher_FILE/클린서버_접속기.exe
 [SETTING] url_updater=/Launcher_FILE/CleanUpdater.exe
-[SETTING] launcher_hash=FB4E849B70E72C03D9663CD4A0063A4E
+[SETTING] new_launcher_version=1.0.0
 [SETTING] url_file_download=/GAME_FILE
 [SETTING] url_webpage=http://180.67.10.123:8008/web2/online.php
 [GAMEFILELIST]	\Data\Items\items.pak	87E0196149F4D74F747BC7E20736AA73
