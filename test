@@ -1,58 +1,38 @@
-[NOTICE]
-<p><strong>&lt;공지사항&gt;</strong></p>
-<blockquote>
-    <ol>
-        <li><strong>이건뭐지</strong>
-            <ul>
-                <li><strong>신기방기</strong></li>
-            </ul>
-        </li>
-        <li><strong>어라</strong>
-            <table border="1" cellpadding="3" style="height: 90px;" width="212">
-                <tbody>
-                    <tr>
-                        <td colspan="3" style="width: 198px;">표도 들어가네</td>
-                    </tr>
-                    <tr>
-                        <td rowspan="2" style="width: 61.95px;">오호</td>
-                        <td style="width: 58.0333px;">&nbsp;</td>
-                        <td style="width: 58.0167px;">&nbsp;</td>
-                    </tr>
-                    <tr>
-                        <td style="width: 58.0333px;">&nbsp;</td>
-                        <td style="width: 58.0167px;">&nbsp;</td>
-                    </tr>
-                </tbody>
-            </table>
-        </li>
-        <li><strong>왜이러지</strong></li>
-    </ol>
-    <blockquote>
-        <ol style="list-style-type: upper-roman;">
-            <li>그림도들어가요<ul>
-                    <li><em><img src="http://180.67.10.123:8008/web2/img_top/ely.png">&nbsp;</em></li>
-                </ul>
-            </li>
-            <li>여기다가 적는거</li>
-            <li>여기다가 적는거</li>
-        </ol><em>&nbsp;</em>
-    </blockquote><em>&nbsp;</em>
-</blockquote>
-[/NOTICE]
-[SETTING]	final_exe_file="\bin32\aion.exe -ip:180.67.10.123 -port:2109 -noauthgg -cc:0 -lang:enu -noauthgg -ls -noweb -nowebshop -ingameshop -win10-mouse-fix -win10-mouse-fix-autodetect -windowed-mouse-fix -unlimited-gfx -disable-xigncode -fix-39-weapon-switch"
-[SETTING]	serverIP=http://180.67.10.123:8008
-[SETTING]	serverPORT=2109
-[SETTING]	url_launcher=/Launcher_FILE/클린서버_접속기2.exe
-[SETTING]	new_launcher_version=1.0.0
-[SETTING]	url_file_download=/GAME_FILE
-[SETTING]	url_webpage=http://180.67.10.123:8008/web2/online.php
-[SETTING]	url_usercount=http://180.67.10.123:8008/getusers_for_launcher.php
-[GAMEFILELIST]	\Data\Items\items.pak	87E0196149F4D74F747BC7E20736AA73
-[GAMEFILELIST]	\Data\Npcs\npcs.pak	DF93BC8F5A81A5D43237F200ECA0DDB1
-[GAMEFILELIST]	\Data\PC\pc.pak	0C8B5CD7ECD133E3B2623908DD147262
-[GAMEFILELIST]	\Data\Skills\Skills.pak	A2BF0FEE760FE49DD0FF37616883BBA1
-[GAMEFILELIST]	\Data\Strings\Strings.pak	949A8E23621BE54E093CDA29667DF263
-[GAMEFILELIST]	\Data\Quest\Quest.pak	45C5196F4A6616D822CB9BB76C9D800A
-[GAMEFILELIST]	\Objects\monster\Mesh_Meshes_034.pak	8EC4990C947F1D2528B71DEB1FD6484C
-[GAMEFILELIST]	\bin32\version.dll	02D61E69DF42FE2A04BB2D9A0838601C
-[GAMEFILELIST]	\bin64\version.dll	8DBED4154332D421546664E49FFB988E
+dTUSHl+o7/VP430Nu5ir7A==
+6SYls7JPFdY35DLosFHzrw==
+K6f/tExzmNYw+1u2I02EcuxD1k8Sw5hRJt7oAt3QnVYoeyaOkf+yHr7WTmElHEy4nZvcp+bU06UPeRUbsbY0UZvEvdj37A4mwOfcYQz1b1U=
+UCPO8LHPCT56xJg+XEFnseygP1A4mANP8nkElpOJrkxPxCq+NPxvj62wPcjHrFx9
+sJdiq6n4w+ktpKEPElHXJ9jHt12fpH03fcTAypxotkHUkt2ewvFVvWaJZzwwKuIZldRO5LO2XhGQ3bvYu153zHGcsp+0X7QFz/eUhStBnVTy8D4zj/ZJsmcpnZBhQSfxnbkTriyoJFOuGjtGX8QPJg==
+FLZ5SNCAhPubl05PugkofGu8vB5zOTbmZymOnFEWEZ5iv4T1uZnjbXsv3jz5zYg1dgJpdkXjIr690YxYj4HOAw==
+YAdGsuYWdkYrOA5cT2TkHX094toP2c/jxbv9makhuBRIBBGyCuDjtqXlBtlcYLAAoaUi9hBXmEocZxYBz7KsH9S/bPdc9py2ghi47AlowsY=
+yjqK+ZrGJegqKxkkKD4AAqvLOM1cfkFOW71PMrpLK/7EwF1DKDZaGNWpUMgbP6TkbvqW59I68BQNlAWHepO/+ZuhGBqqgxlWBCqIaSnRG4KjjvKDCcdK4QZPDAFrq/2o852n5pyPH24DEstWP+PKwA==
+VmDQfAuO1ILUl6ThHz3KmQ==
+gKU4lEtYFkDzNexBkGG0e8DTGXmZrY6iAgX+PFTbdmdsRVUc4/hxWPjdRdKVtcSlg02zU4SqtkZav6dE6VYsDw==
+ZCJHM7Ja3T6KYrAG8L7EIsjyRWUVQsK+h6oqsqcD7Cb1SrR0u3LJrqq3m0nnU4VZDhJerums/FBi/kcRqdSIgA==
+Zx0on+XdepCgb2kPUcj4xon1AnU4AgZ5+31xLa1Veo/HpI7uiuIgpIzLcDVlMayY+e8MsXZFEWEs1b8Ug7UZU/O/FKiLkg5HJwOczVUlWRU=
+g7mC6DgyKK8R/oIrNdOu8w==
+U6T5NkB6O7aMks0UadTc8Uy9PvDnXzP5/W6pL+Vz0Z63bRBKhdvXwxqoVkcl7XcQ1wxq2cX6Ent5xpx+f0VEdg==
+4uWqnXZNHnJ3lpK+TrHOF6XCw89WbJzgtiJND7RvqHgbB1whW1w7cx0cT0TR6vuDbo0OCDBDptA8djPpU17SySYT38SIU2gjZeVWnz7NTO0du49nkVr2dDIzjkrBZFaD
+IjkM+9A2Boy9KGUomhJtqA==
+8OWIWmxa7tqNNqjG7sIQfkNr0pdEUbGeGkHmvK3MO2T3ERj/ZZnV6k1P+CmA1TKh
+3UyKe8b5U3CHGiFme7dvCkqIS+bJiWlMtA20Er4tYdbqADegcwyAHj7eDCuVvES8+v3qSQELqdvLiR9ZH1lWoA==
+HT0bfbeRXcBmbYAjshFmlI79iHUcL4VxGo8Z9VvAuhWVQiwdGpVVqhjn+OwkV2K+dDcdDQhtLH6RBNd+FpO9pQ==
+rjTEvHcZKlRbXZWkjLB5usMqWGLxnduGSyzNNOBJthBxqFPwCy7jUYsladHfkl1a
+IgnyolT6DvrB9aMvYFHjag==
+kDuFvgHzuKzpCfIzx3osNfuH6XrDrLxFWjXWlqclMpGQSH+GGXaDu6kVEbeq5RQjOu31tsqt7QJJg8UbU2Pg+46ZIIdVyVfG8NWGuUbA/sVanOUbBsBw5N6Nsg2rziakMshwRcZgg7MaMB5q+uXCb80q/BOmRs0kaEmwL7bqd1X2L9B6XOdTArwQ+XFmr7HzjjUpIVnnUT2tR+gUlZNdzJu2oQU5lBvvMqW9DPWOjYQppzJZOBQmQhgloBU5tUWHZ1G9Su2guGP16UfFIK631zO+O5trYDVYiXIhbxvfWWrbWMUUf5zCsHmoYdJymrsZGmray6MqN1H8RoOuQSlS5hvIsoDCKzEYFF8r1ncbrns=
+8bT+SbhKH4HHLZce37VsehHKk+7d0OBzUpYFz77J6QKQz4Z2xAT8kNiBtsHfMKwc
+8bT+SbhKH4HHLZce37VsegzPPk00W8belgszO5K1XYY=
+TYmpHuSHxt4Um39gwvMzPzipKckVRCLDXE5QK+IajZZ8ift6z703ZGgSeGojsaece7XDS34EUu3PaVfFrW3trA==
+Rc78/ytAU2In0XsR/M46qHUtkGia8u1tnX0tV3tgC7p7ckOD6yUSIsPosBx/0gmd
+j3xgkC/hMcpi05Rz0qEn2rQn0rmpkRMdIfnU9rKf15SRJOSQfomD2O2/dTQSRinS
+k0VnOcoB2GqLeC3bFFzw13QZyvDWmdHcF2VbUgvTVR31PguqzZoox4qlytouvj+ibC1btqVC6rWNe2E9w4E77MrLd8CzIjbb4krPLHtXkfM=
+QAB++19vn1wuOkqGJlVuaG5qMb0ZOoJ9SuUaBsym2owt9kN8HMFt8rASTV6ibrJp+yHg78jMLSiN/FCHTRTZrN7eUDnW/PJ7QJXZ7zjk7x0=
+YtcbRDyAXm68nLHCyS84sq+iYXyRBj8pR6J2jhW1FlyDSbaFXeGmwkBQIq12EQ3FtuxOtLcgol20c34HkYr8D/yyRDc8tdNSIXX4Yi3bpqM=
+YtcbRDyAXm68nLHCyS84srZJgLWCrHt7cjNjTJjSyOCxkCym2bBgr4WWG/HCxLjtVSXw3FWv3bBJnc1ORPmRaeg4u5UvuxspdKDyWnM+HuE=
+YtcbRDyAXm68nLHCyS84smmfE6saXWxHQoqduJMV+nv8pxT2BJp+wkLkvjBD+Ihqxu7Ngr8N0vYu5lb+6ZFDkcgqderC9CozzFkIDrbsSI4=
+YtcbRDyAXm68nLHCyS84squOif19NYiymIPpN6C+ohMSjHh0m1SxjaB8En1uw6MaXpw39s/IDUIe49zLbiCiEKZ9KUPDuBB7T7hAsWTZ4pE=
+YtcbRDyAXm68nLHCyS84sp6tCHh9h1VHt7CJ/Y3wS2azqPbOgk1MXX9Mqb/f+5SJKqbIrtgLv0El1kVL1UadJOKNpwnSsZ/MFLzmv1nooTc=
+YtcbRDyAXm68nLHCyS84sjEoYjYn2YFxEueHg6BKkhZCvpYrl1nVD40/pJNZcqrLPYXN4IIlI++mXqHWvScMPf83amH2wS5yizTso0BipGo=
+YtcbRDyAXm68nLHCyS84sv6fFUMuc+uoz/CaRL3pcZ0befbAXgYu6NcurnQI5HWNy2usleQp5EWWTRyIMwWiuLyftagUglC9RjV1tOhcIXl3wJUT8V9Eb/iKxaSxJ5Yl
+YtcbRDyAXm68nLHCyS84ssbhwL6zgjr5mdKc2sr9N4oHH8evBBeFWWzP+zg7QLx+aQ+vOSImPr2N2e5mypiUz0YOGysN371uyRFeAFZ0iYU=
+YtcbRDyAXm68nLHCyS84svHPj+FrtJebRoEDKQPRNk3L1hDUpf5CRYMF1g1VvyOt816O60QBQtdHX1oxUk39Lc+aVWsu1IhNdgJhSHZsoX8=
