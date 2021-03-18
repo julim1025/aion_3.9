@@ -107,6 +107,7 @@
 [/NOTICE]
 [SETTING] final_exe_file="\bin32\aion.exe -ip:180.67.10.123 -port:2109 -noauthgg -cc:0 -lang:enu -noauthgg -ls -noweb -nowebshop -ingameshop -win10-mouse-fix -win10-mouse-fix-autodetect -windowed-mouse-fix -unlimited-gfx -disable-xigncode -fix-39-weapon-switch"
 [SETTING] serverIP=http://180.67.10.123:8008
+[SETTING] serverPORT=2109
 [SETTING] url_launcher=/Launcher_FILE/클린서버_접속기2.exe
 [SETTING] new_launcher_version=1.1.0
 [SETTING] url_file_download=/GAME_FILE
