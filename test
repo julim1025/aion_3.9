@@ -46,7 +46,7 @@
 [SETTING]	new_launcher_version=1.0.0
 [SETTING]	url_file_download=/GAME_FILE
 [SETTING]	url_webpage=http://180.67.10.123:8008/web2/online.php
-[SETTING]	url_usercount=http://180.67.10.123:8008/status3.html
+[SETTING]	url_usercount=http://180.67.10.123:8008/getusers_for_launcher.php
 [GAMEFILELIST]	\Data\Items\items.pak	87E0196149F4D74F747BC7E20736AA73
 [GAMEFILELIST]	\Data\Npcs\npcs.pak	DF93BC8F5A81A5D43237F200ECA0DDB1
 [GAMEFILELIST]	\Data\PC\pc.pak	0C8B5CD7ECD133E3B2623908DD147262
